@@ -1,0 +1,202 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$1.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$2.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$3.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$4.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$5.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$6.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$sparkStyle$1.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$sparkStyle$2.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$sparkStyle$3.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$sparkStyle$4.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$1.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$2.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$3.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$4.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$5.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$Dependencies$.class
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef.class
+binary dependencies:
+9 items
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.6.jar
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.6.jar
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.6.jar
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.6.jar
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.6.jar
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.6.jar
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.6.jar
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> /Users/Xiaopei/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$root$1
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$root$2
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$root$3
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$root$4
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$root$5
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$root$6
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$sparkStyle$1
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$sparkStyle$2
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$sparkStyle$3
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$sparkStyle$4
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$styleSettings$1
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$styleSettings$2
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$styleSettings$3
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$styleSettings$4
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$$anonfun$styleSettings$5
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef$Dependencies$
+used names:
+54 items
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> %
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> %%
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> ++
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> ++=
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> :=
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> <init>
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> AnyRef
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> Append
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> Build
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> Defaults
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> Dependencies
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> FullInstance
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> InitializeInstance
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> Keys
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> Project
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> Reference
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> Seq
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> SparkPluginDef
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> appendN
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> appendSeq
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> apply
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> canBuildFrom
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> classpathDependency
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> collection
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> defaultSettings
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> dependsOn
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> file
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> libraryDependencies
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> name
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> organization
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> package
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> projectToRef
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> pure
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> root
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> sbt
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> sbtPomReader
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> scala
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> scalaStyle
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> scalaVersion
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> scalacOptions
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> set
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> sparkStyle
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> styleSettings
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> toGroupID
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> uri
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> uriToRef
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> x$1
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> x$2
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> x$3
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> x$4
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> x$5
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> x$6
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> x$7
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> x$8
+product stamps:
+18 items
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$1.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$2.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$3.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$4.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$5.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$root$6.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$sparkStyle$1.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$sparkStyle$2.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$sparkStyle$3.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$sparkStyle$4.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$1.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$2.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$3.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$4.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$$anonfun$styleSettings$5.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef$Dependencies$.class -> lastModified(1464912403000)
+/Users/Xiaopei/spark-homework/project/project/target/scala-2.10/sbt-0.13/classes/SparkPluginDef.class -> lastModified(1464912403000)
+source stamps:
+1 items
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> hash(95e53a0101595faf20a7bde697717685f38567a0)
+binary stamps:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1458538383000)
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.6.jar -> lastModified(1429631326000)
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.6.jar -> lastModified(1429632525000)
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.6.jar -> lastModified(1429629259000)
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.6.jar -> lastModified(1429630413000)
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.6.jar -> lastModified(1429631899000)
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.6.jar -> lastModified(1429630634000)
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.6.jar -> lastModified(1429631248000)
+/Users/Xiaopei/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.6.jar -> sbt.appmacro.Instance$
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.6.jar -> sbt.LinePosition$
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.6.jar -> sbt.ModuleID
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.6.jar -> sbt.Def$
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.6.jar -> sbt.Build
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.6.jar -> sbt.package$
+/Users/Xiaopei/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.6.jar -> sbt.Task
+/Users/Xiaopei/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Predef$
+internal apis:
+1 items
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBMjnNSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJtu09Z0AAZub3RpZnlzcQB+AAz08/4pdAAEd2FpdHNxAH4ADJ8ZYoh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGlHsZ3QADGJ1aWxkTG9hZGVyc3NxAH4ADGuFquZ0AARyb290c3EAfgAMWMh4enQABmVxdWFsc3NxAH4ADN0XI910AAxhc0luc3RhbmNlT2ZzcQB+AAx50bq3dAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMREm8DnQACnNwYXJrU3R5bGVzcQB+AAyRJjl2dAAMc3luY2hyb25pemVkc3EAfgAMKKuTtnQADERlcGVuZGVuY2llc3NxAH4ADBjE59x0AA0kaXNJbnN0YW5jZU9mc3EAfgAMcpJybnQACnNjYWxhU3R5bGVzcQB+AAzYuzpndAAOU3BhcmtQbHVnaW5EZWZzcQB+AAxhNX10dAAJbm90aWZ5QWxsc3EAfgAMTlbt6HQAC3Jvb3RQcm9qZWN0c3EAfgAMN35KjXQADGlzSW5zdGFuY2VPZnNxAH4ADP0epkh0AAI9PXNxAH4ADITiCg10AAVjbG9uZXNxAH4ADC2TAdB0AAh0b1N0cmluZ3NxAH4ADDKxZ6h0AAIhPXNxAH4ADK0nn290AAhwcm9qZWN0c3NxAH4ADC50WtN0AAhnZXRDbGFzc3NxAH4ADNjrgOB0AAJuZXNxAH4ADCFr1nd0AAJlcXNxAH4ADBbGeFp0AAxzYnRQb21SZWFkZXJzcQB+AAy7lglKdAAIc2V0dGluZ3NzcQB+AAybzCfadAACIyNzcQB+AAylXa+IdAAIZmluYWxpemVzcQB+AAwNJf3YdAAIaGFzaENvZGVzcQB+AAy4IUhydAANc3R5bGVTZXR0aW5nc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AKXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBzc3EAfgBsAXVxAH4AUAAAAABwc3EAfgBsAXVxAH4AUAAAAABwc3EAfgBsAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcnQABUJ1aWxkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANzYnRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjHNxAH4Af3QABk9iamVjdHNxAH4Ag3NxAH4AhnVxAH4AiQAAAANzcQB+AIt0AARqYXZhc3EAfgCLdAAEbGFuZ3EAfgCQc3EAfgB/dAADQW55c3EAfgCDc3EAfgCGdXEAfgCJAAAAAnNxAH4Ai3QABXNjYWxhcQB+AJBwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVE5VUQXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFAvVXNlcnMvWGlhb3BlaS9zcGFyay1ob21ld29yay9wcm9qZWN0L3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJXlOgEBWV+vIKe95pdxdoXzhWeg
+external apis:
+0 items
+source infos:
+1 items
+/Users/Xiaopei/spark-homework/project/project/SparkPluginBuild.scala -> 
+AAAAAAAAAAIAAAEAAAAbAFMgIGxhenkgdmFsIHJvb3QgPSBQcm9qZWN0KCJwbHVnaW5zIiwgZmlsZSgiLiIpKSBkZXBlbmRzT24oc3BhcmtTdHlsZSwgc2J0UG9tUmVhZGVyKQEAAASOAQAAAEYBAEYgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBEL1VzZXJzL1hpYW9wZWkvc3BhcmstaG9tZXdvcmsvcHJvamVjdC9wcm9qZWN0L1NwYXJrUGx1Z2luQnVpbGQuc2NhbGEBAEQvVXNlcnMvWGlhb3BlaS9zcGFyay1ob21ld29yay9wcm9qZWN0L3Byb2plY3QvU3BhcmtQbHVnaW5CdWlsZC5zY2FsYQBkbWV0aG9kIHVyaVRvUmVmIGluIG9iamVjdCBSZWZlcmVuY2UgaXMgZGVwcmVjYXRlZDogRXhwbGljaXRseSB3cmFwIHRoZSBVUkkgaW4gYSBjYWxsIHRvIFJvb3RQcm9qZWN0LgEAAAEAAAAgADcgIGRlZiBzdHlsZVNldHRpbmdzID0gRGVmYXVsdHMuZGVmYXVsdFNldHRpbmdzICsrIFNlcSAoAQAABbgBAAAAHwEAHyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAEQvVXNlcnMvWGlhb3BlaS9zcGFyay1ob21ld29yay9wcm9qZWN0L3Byb2plY3QvU3BhcmtQbHVnaW5CdWlsZC5zY2FsYQEARC9Vc2Vycy9YaWFvcGVpL3NwYXJrLWhvbWV3b3JrL3Byb2plY3QvcHJvamVjdC9TcGFya1BsdWdpbkJ1aWxkLnNjYWxhAIh2YWx1ZSBkZWZhdWx0U2V0dGluZ3MgaW4gb2JqZWN0IERlZmF1bHRzIGlzIGRlcHJlY2F0ZWQ6IERlZmF1bHQgc2V0dGluZ3Mgc3BsaXQgaW50byBjb3JlRGVmYXVsdFNldHRpbmdzIGFuZCBJdnlNb2R1bGUvSnZtTW9kdWxlIHBsdWdpbnMuAQ==
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVJOoxV11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9Vc2Vycy9YaWFvcGVpL3NwYXJrLWhvbWV3b3JrL3Byb2plY3QvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVROVVEF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9Vc2Vycy9YaWFvcGVpL3NwYXJrLWhvbWV3b3JrL3Byb2plY3QvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==

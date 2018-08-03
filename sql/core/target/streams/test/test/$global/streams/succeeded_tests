@@ -1,0 +1,6 @@
+#Successful Tests
+#Thu Jun 02 17:08:08 PDT 2016
+org.apache.spark.sql.execution.CS143UtilsSuite=1464912465905
+org.apache.spark.sql.execution.DiskHashedRelationSuite=1464912465074
+org.apache.spark.sql.execution.DiskPartitionSuite=1464912465027
+org.apache.spark.sql.execution.ProjectSuite=1464912487986
